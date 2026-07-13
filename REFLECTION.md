@@ -1,0 +1,3 @@
+I learned how a code similar to this can be useful like keeping track on how my mood changes across the week and how many minutes were dedicated to a certain hobby of the day.
+
+The most confusing part to learn was how the functions were placed in a certain formation and the formulas that were placed down on them. I was worried I would end up getting lost, but it was definitely interesting to understand why they were coded in a specific manner.
